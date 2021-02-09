@@ -1,6 +1,6 @@
 # Taking the temperature
 
-[![Travis](https://travis-ci.org/don4get/taking_the_temperature.svg?branch=master)](https://travis-ci.org/don4get/taking_the_temperature)
+[![Travis](https://travis-ci.com/don4get/taking_the_temperature.svg?branch=master)](https://travis-ci.com/don4get/taking_the_temperature.svg?branch=master)
 [![Codecov](https://codecov.io/gh/don4get/taking_the_temperature/branch/master/graph/badge.svg?token=MQB9Z9L60D)](https://codecov.io/gh/don4get/taking_the_temperature)
 
 ![ThermometerIcon](https://raw.githubusercontent.com/don4get/taking_the_temperature/master/docs/figures/thermometer_icon_250.png)
