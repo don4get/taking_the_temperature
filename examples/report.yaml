@@ -1,0 +1,210 @@
+2021-Feb-09 20:55:51:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:51
+    Temperature: 15619
+    Min temperature: 15619
+    Max temperature: 15619
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:51
+    Temperature: 2152
+    Min temperature: 2152
+    Max temperature: 2152
+2021-Feb-09 20:55:51:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:51
+    Temperature: 29863
+    Min temperature: 15619
+    Max temperature: 29863
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:51
+    Temperature: 9955
+    Min temperature: 2152
+    Max temperature: 9955
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 45139
+    Min temperature: 15619
+    Max temperature: 45139
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 15047
+    Min temperature: 2152
+    Max temperature: 15047
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 8287
+    Min temperature: 8287
+    Max temperature: 45139
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 2763
+    Min temperature: 2152
+    Max temperature: 15047
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 48049
+    Min temperature: 8287
+    Max temperature: 48049
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 16017
+    Min temperature: 2152
+    Max temperature: 16017
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 3910
+    Min temperature: 3910
+    Max temperature: 48049
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 1304
+    Min temperature: 1304
+    Max temperature: 16017
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 25981
+    Min temperature: 3910
+    Max temperature: 48049
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 8661
+    Min temperature: 1304
+    Max temperature: 16017
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 49129
+    Min temperature: 3910
+    Max temperature: 49129
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 16377
+    Min temperature: 1304
+    Max temperature: 16377
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 28687
+    Min temperature: 3910
+    Max temperature: 49129
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 9563
+    Min temperature: 1304
+    Max temperature: 16377
+2021-Feb-09 20:55:52:
+  2-PT1000:
+    Hardware Id: 2
+    Name: PT1000
+    Sensor type: Current 4-20mA
+    Scaling factor: 3
+    Offset: -2
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 40069
+    Min temperature: 3910
+    Max temperature: 49129
+  3-Unnamed:
+    Hardware Id: 3
+    Name: Unnamed
+    Sensor type: Voltage 0-10V
+    Scaling factor: 1
+    Offset: 0
+    Current time: 2021-Feb-09 20:55:52
+    Temperature: 13357
+    Min temperature: 1304
+    Max temperature: 16377
